@@ -8,7 +8,7 @@ import (
 
 // @BasePath /api/v1
 
-// ShowOpeningHandler @Summary Show opening
+// @Summary Show opening
 // @Description Show a job opening
 // @Tags Openings
 // @Accept json

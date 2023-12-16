@@ -9,7 +9,7 @@ import (
 
 // @BasePath /api/v1
 
-// DeleteOpeningHandler @Summary Delete opening
+// @Summary Delete opening
 // @Description Delete a job opening
 // @Tags Openings
 // @Accept json
