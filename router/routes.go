@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/Gabriel-Bitencort/gopportunities.git/docs"
+	docs "github.com/Gabriel-Bitencort/gopportunities.git/docs"
 	"github.com/Gabriel-Bitencort/gopportunities.git/handler"
 	"github.com/gin-gonic/gin"
 	swaggerfiles "github.com/swaggo/files"
